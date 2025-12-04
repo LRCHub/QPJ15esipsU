@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "僕らまた",
+  "base_artist": "SG",
+  "createdAt": "2025-12-04T20:33:52.039498Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕らまた (吹奏楽 ver.)",
+      "artist": "SG",
+      "has_synced": true,
+      "path": "select/01_僕らまた_(吹奏楽_ver.)_SG.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕らまた",
+      "artist": "SG",
+      "has_synced": false,
+      "path": "select/pl_01_僕らまた_SG.txt"
+    }
+  ]
+}
